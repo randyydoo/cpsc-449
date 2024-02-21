@@ -42,13 +42,13 @@
 <div>
 <h3>HTTP Methods</h3>
 <p>
-<b>GET: Retrieve data from server</b>
+<b>GET (Retrieve/Download): Retrieve data from server</b>
 </p>
 <p>
-<b>POST: Send data to server and possibly update DB</b>
+<b>POST (Create/Upload): Send data to server and possibly update DB</b>
 </p>
 <p>
-<b>PUT: Replace current data with data sent</b>
+<b>PUT (Update): Replace current data with data sent</b>
 </p>
 <p>
 <b>DELETE: Removes data</b>
@@ -66,3 +66,7 @@
 <b>TRACE: Echos response from server</b>
 </p>
 <div>
+
+<div>
+
+</div>
